@@ -106,6 +106,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp)** - Predict anything with Chronulus AI forecasting and prediction agents.
 - **[CircleCI](https://github.com/CircleCI-Public/mcp-server-circleci)** - Enable AI Agents to fix build failures from CircleCI.
 - **[ClickHouse](https://github.com/ClickHouse/mcp-clickhouse)** - Query your [ClickHouse](https://clickhouse.com/) database server.
+- **[ClosedLoop AI](https://github.com/closedloop-ai-org/mcp-client)** - Product intelligence MCP server providing AI assistants with customer feedback, feature requests, and product insights from Gong, Slack, and 40+ integrations.
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)
 - **[Cloudbet](https://github.com/cloudbet/sports-mcp-server)** – Structured sports and esports data via Cloudbet API: fixtures, live odds, stake limits, and markets.
 - **[CoinGecko](https://docs.coingecko.com/reference/mcp-server/)** - Official [CoinGecko API](https://www.coingecko.com/en/api) MCP Server for Crypto Price & Market Data, across 200+ blokchain networks and 8M+ tokens.
